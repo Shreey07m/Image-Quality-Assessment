@@ -21,11 +21,11 @@ I developed a machine learning solution to optimize digital storage by identifyi
 - Visualization: Results are displayed with scores and images marked for deletion.
 
 ## Installation
-1. Clone the repository:  ''' git clone https://github.com/your-username/image-quality-assessment.git
-cd image-quality-assessment'''
-2. Install dependencies: ''' pip install -r requirements.txt '''
-3. Run the application: '''streamlit run app.py'''
-4. Access the app at ''' http://localhost:8501 '''
+1. Clone the repository:  ``` git clone https://github.com/your-username/image-quality-assessment.git
+cd image-quality-assessment```
+2. Install dependencies: ``` pip install -r requirements.txt ```
+3. Run the application: ```streamlit run app.py```
+4. Access the app at ```http://localhost:8501 ```
 
 
 
