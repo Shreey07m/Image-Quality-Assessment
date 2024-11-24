@@ -29,9 +29,12 @@ cd image-quality-assessment```
 
 ## Contributors
 
-Shreeya M. Maliye
-Anam M. Sayyad
+- **Shreeya M. Maliye**
+- **Anam M. Sayyad**
 
+## License
+
+This project is licensed under the MIT License.
 
 
 
