@@ -23,15 +23,15 @@ I developed a machine learning solution to optimize digital storage by identifyi
 ## Installation
 1. Clone the repository:
    
-```   
-git clone https://github.com/your-username/image-quality-assessment.git
-```
+    ```   
+    git clone https://github.com/your-username/image-quality-assessment.git
+    ```
 
 
 
-```
-cd image-quality-assessment 
-```
+    ```
+    cd image-quality-assessment 
+    ```
 
 2. Install dependencies:
    
