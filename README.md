@@ -27,6 +27,12 @@ cd image-quality-assessment```
 3. Run the application: ```streamlit run app.py```
 4. Access the app at ```http://localhost:8501 ```
 
+## Contributors
+
+Shreeya M. Maliye
+Anam M. Sayyad
+
+
 
 
 
