@@ -22,27 +22,33 @@ I developed a machine learning solution to optimize digital storage by identifyi
 
 ## Installation
 1. Clone the repository:
-bash
+   
 ```   
 git clone https://github.com/your-username/image-quality-assessment.git
 ```
 
-bash
+
 
 ```
 cd image-quality-assessment 
 ```
 
 2. Install dependencies:
-bash
-   ``` pip install -r requirements.txt ```
    
-3. Run the application:
-bash
-    ```streamlit run app.py```
-4. Access the app at
+   ```
+   pip install -r requirements.txt
+   ```
+   
+4. Run the application:
 
-   ```http://localhost:8501 ```
+    ```
+   streamlit run app.py
+    ```
+6. Access the app at
+
+   ```
+   http://localhost:8501
+   ```
 
 ## Contributors
 
